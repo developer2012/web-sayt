@@ -464,3 +464,58 @@ letter-spacing: 1px;
 text-align: center;
 
   }
+  .poi{
+    position: absolute;
+    top: 534px;
+    left: 775px;
+    text-align: center;
+font-weight: 400;
+font-style: Regular;
+font-size: 15px;
+line-height: 23.25px;
+letter-spacing: 0%;
+text-align: center;
+
+  }
+  .bo{
+    background-color: #000;
+    color: white;
+  }
+  .card{
+  text-align: center;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.56px;
+text-align: center;
+text-transform: uppercase;
+opacity: 0.7;
+  }
+  .lld{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 360px;
+font-weight: 400;
+font-style: Regular;
+font-size: 33px;
+line-height: 40px;
+letter-spacing: 1px;
+text-align: center;
+
+  }
+  .imk{
+    position: relative;
+  }
+ .imk .oddsw{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+}
+  .imk .ok{
+    position: absolute;
+    top: 48px;
+    left: 78px;
+  }
+
