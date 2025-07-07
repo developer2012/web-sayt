@@ -34,7 +34,7 @@
   .btn,
   .Apply-btn {
       padding: 10px 24px;
-      border-radius: 5px;
+      border-radius: 5px white;
       font-weight: bold;
       cursor: pointer;
       border: none;
@@ -649,6 +649,7 @@
 
   .kl {
       position: relative;
+
   }
 
   .lk {
@@ -657,7 +658,7 @@
 
   .wed {
       position: absolute;
-      top: 237px;
+      top: 255px;
       left: 260px;
   }
 
@@ -674,13 +675,13 @@
 
   .terms {
       position: absolute;
-      top: 237px;
-      left: 706px;
+      top: 255px;
+      left: 707px;
   }
 
   .tue {
       position: absolute;
-      top: 278px;
+      top: 300px;
       left: 450px;
   }
 
@@ -702,4 +703,154 @@
       line-height: 20px;
       letter-spacing: 0%;
 
+  }
+
+  .ooo {
+      margin-left: 34px;
+  }
+
+  .por {
+      position: absolute;
+      top: 340px;
+      left: 1152px;
+  }
+
+  .lok {
+      position: absolute;
+      top: 363px;
+      left: 893px;
+  }
+
+  .il {
+      position: absolute;
+      top: 604px;
+      left: 895px;
+
+  }
+
+  .nm {
+      position: absolute;
+      top: 623px;
+      left: 895px;
+  }
+
+  .c {
+      position: absolute;
+      top: 6830px;
+      left: 148px;
+      font-family: Roboto;
+      font-weight: 400;
+      font-style: Regular;
+      font-size: 27px;
+      leading-trim: NONE;
+      line-height: 33.07px;
+      letter-spacing: 0%;
+
+  }
+
+  .mmb {
+      position: absolute;
+      top: 6900px;
+      left: 148px;
+  }
+
+  .Appl-btn {
+      padding: 10px 24px;
+
+      font-weight: bold;
+      cursor: pointer;
+      border: none;
+      background-color: #000;
+      color: white;
+      position: absolute;
+      top: 7000px;
+      left: 148px;
+  }
+
+  .kn {
+      padding-top: 66px;
+      padding-left: 37px;
+      font-family: Roboto;
+      font-weight: 400;
+      font-style: Regular;
+      font-size: 12px;
+      leading-trim: NONE;
+      line-height: 18px;
+      letter-spacing: 0%;
+      opacity: 0.6;
+  }
+
+  .kok {
+      padding-top: 66px;
+      padding-left: 37px;
+      font-family: Roboto;
+      font-weight: 400;
+      font-style: Regular;
+      font-size: 12px;
+      leading-trim: NONE;
+      line-height: 18px;
+      letter-spacing: 0%;
+      opacity: 0.6;
+  }
+
+  .kost {
+      display: flex;
+  }
+
+  footer {
+      background-color: #000;
+      color: white;
+  }
+
+  .des {
+      display: flex;
+      gap: 48px;
+      position: relative;
+  }
+
+  .asd {
+      padding-left: 314px;
+  }
+
+  .oi {
+      position: absolute;
+      top: 0;
+      left: 0;
+  }
+
+  .App-btn {
+      border: 2px solid white;
+  }
+
+  .ers {
+      margin-left: 900px;
+  }
+
+  .erss {
+      margin-left: 144px;
+  }
+
+  .wcv {
+      font-weight: 400;
+      font-style: Regular;
+      font-size: 12px;
+      line-height: 16px;
+      letter-spacing: 0%;
+      opacity: 0.5;
+  }
+
+  .fg {
+      justify-content: space-between;
+      display: flex;
+  }
+
+  .fg .navbar ul {
+      display: flex;
+      font-weight: 400;
+      font-style: Regular;
+      font-size: 12px;
+      line-height: 16px;
+      letter-spacing: 0%;
+      opacity: 0.5;
+      gap: 32px;
   }
